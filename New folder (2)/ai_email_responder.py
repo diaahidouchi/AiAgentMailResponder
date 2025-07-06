@@ -7,9 +7,9 @@ import openai
 import time
 
 
-GMAIL_USER = "diaaadiaa34@gmail.com"  # Replace with your Gmail address
-GMAIL_APP_PASSWORD = "diaa2004"  # Replace with your Gmail App Password
-OPENAI_API_KEY = "AIzaSyAxttoT4QK9gh0krLJXeFvCWGWLXLDh9Rg"  # Replace with your OpenAI API key
+GMAIL_USER = "urmailgmail.com"  
+GMAIL_APP_PASSWORD = "******"  #not ur mail password , app password 
+OPENAI_API_KEY = "AIzaSyAxttoT4QK9gh0krLJXeFvCWGWLXLDh9Rg"  # use my api haha
 IMAP_SERVER = "imap.gmail.com"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
